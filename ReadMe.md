@@ -1,8 +1,8 @@
-\# Bulldozer Price Prediction 🚜
+# Bulldozer Price Prediction 🚜
 
 
 
-\## Project Overview
+## Project Overview
 
 This project uses machine learning to predict the sale prices of bulldozers based on historical auction data.
 
@@ -12,51 +12,51 @@ The goal is to build a regression model that predicts bulldozer prices as accura
 
 
 
-\## Problem Statement
+## Problem Statement
 
 Predict the sale price of a bulldozer using its characteristics and historical sales information.
 
 
 
-\## Tools \& Technologies
+## Tools \& Technologies
 
-\- Python
+- Python
 
-\- Jupyter Notebook
+- Jupyter Notebook
 
-\- Pandas
+- Pandas
 
-\- NumPy
+- NumPy
 
-\- Matplotlib
+- Matplotlib
 
-\- Scikit-learn
-
-
-
-\## Machine Learning Model
-
-\- Random Forest Regressor
-
-\- Hyperparameter tuning
-
-\- Regression model evaluation
+- Scikit-learn
 
 
 
-\## Model Evaluation
+## Machine Learning Model
+
+- Random Forest Regressor
+
+- Hyperparameter tuning
+
+- Regression model evaluation
+
+
+
+## Model Evaluation
 
 The model was evaluated using:
 
-\- Mean Absolute Error (MAE)
+- Mean Absolute Error (MAE)
 
-\- Root Mean Squared Logarithmic Error (RMSLE)
+- Root Mean Squared Logarithmic Error (RMSLE)
 
-\- R² Score
+- R² Score
 
 
 
-\### Validation Results
+### Validation Results
 
 
 
@@ -72,7 +72,7 @@ The model was evaluated using:
 
 
 
-\## Project Structure
+## Project Structure
 
 
 
