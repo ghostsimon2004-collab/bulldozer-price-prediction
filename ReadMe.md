@@ -97,8 +97,7 @@ bulldozer-price-prediction-project/
 
 
 
-
-**How to Run:**
+** How to Run: **
 
 
 
