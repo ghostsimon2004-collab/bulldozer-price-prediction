@@ -1,0 +1,18 @@
+# Python environment
+env/
+.venv/
+
+# Dataset
+Data/
+
+# Jupyter temporary files
+.ipynb_checkpoints/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Editor and OS files
+.vscode/
+.DS_Store
+Thumbs.db
